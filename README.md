@@ -9,6 +9,12 @@ Built for the **Berkeley x Google DeepMind Hackathon** (Sep 27, 2026), remote tr
 - [Full demo (2:33)](demo/demo-full.mp4)
 - [Short demo (1:15)](demo/demo-short.mp4)
 
+## Notes
+
+- [Team Intro](docs/team-intro.md)
+- [Project Description](docs/project-description.md)
+- [Playcast Script](docs/playcast-script.md)
+
 ## Team
 
 Solo submission by **Alex Rao**.
