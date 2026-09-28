@@ -35,6 +35,16 @@ Beyond the metaphor, the potential of this product is visualization and composit
 - Viewing the stock market as a series of graphs has its limitations. I'm a novice stock trader and the highway metaphor is easier for me to follow. I imagine since most people drive and not everyone trades, this is also true for others.
 - Secondly, the car metaphor lets you go step by step, trading as you switch lanes. It's hard to come up with a plan from the ground up. It's easier to compose one following a series of discrete steps.
 
+### How it plays
+
+- Each lane represents a different ticker. Most of them are stocks, but there's also BTC just for fun.
+- Collisions cause losses.
+- Your vehicle is slow when changing lanes, which adds some risk.
+- You can step on the brakes or speed up.
+- Your dashboard has a ton of info to help you calculate your moves.
+- Earnings and losses are split up for your analysis.
+- You can stop on the shoulder — in other words, sell everything.
+
 ### Future work
 
 The product is essentially a paper trading visualizer. If I had more time, I'd allow the player to save state and replay segments, creating recordings of different trades. I'd also try to make the tickers accurate. The cars also don't need to move in real time, even though it's fun. There should be different modes.
