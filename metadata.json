@@ -1,0 +1,6 @@
+{
+  "name": "TickerTraffic: Stock Volatility Highway",
+  "description": "Interactive financial visualization where stocks are traffic lanes. Speed reflects volatility, red lanes highlight price drops, and switching lanes banks your distance earnings—while testing your regret when abandoned lanes rocket ahead.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
